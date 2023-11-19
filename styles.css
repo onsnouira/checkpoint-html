@@ -1,0 +1,43 @@
+.aa{
+  font-family: 'Roboto';
+  font-size: 15px;
+
+}
+#hd{
+    background-color: bisque;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+.aa{
+    display:inline;
+    float: inline-end;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float:inline-start;
+  }
+  
+  li a {
+    display: block;
+    padding: 8px;
+    background-color: #e3dada;
+  }
+h2{
+  color: blueviolet;
+    }
+  .oo{
+    background-image: url("https://www.shutterstock.com/image-vector/abstract-financial-graph-uptrend-line-260nw-1534094558.jpg");
+
+  }
+  .cl{
+    background-color: antiquewhite;
+  }
+  
